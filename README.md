@@ -28,10 +28,20 @@ Bem-vindo ao meu perfil GitHub.
 
 
 --- 
-
 <p align="left">
 <div>
 <a href="https://github.com/JuanPedro-Soares">
 <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPedro-Soares&layout=compact&theme=synthwave"/>
+<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=JuanPedro-Soares&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+</a>
 </div>
+</p>
+
+## 📫 Contato
+
+<p align="left">
+  <a href="mailto:juanpedrosoares1@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" />
+    juanpedrosoares1@gmail.com
+  </a>
 </p>
