@@ -29,19 +29,14 @@ Bem-vindo ao meu perfil GitHub.
 
 --- 
 <p align="left">
-<div>
-<a href="https://github.com/JuanPedro-Soares">
-<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPedro-Soares&layout=compact&theme=synthwave"/>
-<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=JuanPedro-Soares&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-</a>
-</div>
+  <a href="https://github.com/JuanPedro-Soares">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanPedro-Soares&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPedro-Soares&layout=compact&langs_count=7&theme=synthwave"/>
+  </a>
 </p>
-
-## 📫 Contato
 
 <p align="left">
   <a href="mailto:juanpedrosoares1@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" />
-    juanpedrosoares1@gmail.com
+    <img src="https://img.shields.io/badge/Gmail-juanpedrosoares1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
